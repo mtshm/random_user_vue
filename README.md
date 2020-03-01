@@ -1,5 +1,14 @@
-# vue-test
+# random_user_vue
 
+## アプリのURL
+https://mtshm-vue.netlify.com/
+
+## アプリの概要
+APIからデータを取得・表示に反映するアプリケーションをVue.jsで実装
+ダミーのユーザーデータが取得できるAPIを利用しています。
+
+## 使用技術
+Vue-CLI,axios,vuejs-paginate,bootstrap-vue
 ## Project setup
 ```
 npm install
