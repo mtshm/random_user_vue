@@ -1,7 +1,7 @@
 # random_user_vue
 
 ## アプリのURL
-https://mtshm-vue.netlify.com/
+https://mtshm-random-user-vue.netlify.com
 
 ## アプリの概要
 APIからデータを取得・表示に反映するアプリケーションをVue.jsで実装
